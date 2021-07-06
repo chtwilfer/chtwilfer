@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+👩‍💻 My name is Christian Twilfer, but I also answer to my nickname Twilfi 😉
+🔗 My home on the net is chtwilfer.github.io
+📫 You can reach me by mail at christian.twilfer@outlook.de
+🐤 You can find me on Twitter as @azurecris
+🐤 You can find me on LinkedIn as @azurecris
+🌱 I’m currently learning Product Management
+💬 Ask me about Azure Stack Hub & Azure Stack HCI, NetApp Cloud Services
+
+
 <!--
 **chtwilfer/chtwilfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
