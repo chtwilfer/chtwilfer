@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Product Management
 - 💬 Ask me about Azure Stack Hub & Azure Stack HCI, NetApp Cloud Services
 
+I'm currently looking for a new job in Program or Product Management, Chief Technology Officer. Ideally in Azure strategy or Head of / Leading for an awesome company. Hire me!
 
 <!--
 **chtwilfer/chtwilfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
