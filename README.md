@@ -4,7 +4,7 @@
 - 🔗 My home on the net is chtwilfer.github.io
 - 📫 You can reach me by mail at christian.twilfer@outlook.de
 - 🐤 You can find me on Twitter as @azurecris
-- 🐤 You can find me on LinkedIn as @azurecris
+- 🐤 You can find me on LinkedIn as www.linkedin.com/in/azurecris
 - 🌱 I’m currently learning Product Management
 - 💬 Ask me about Azure Stack Hub & Azure Stack HCI, NetApp Cloud Services
 
