@@ -12,7 +12,7 @@ Nice to meet you.....
 - 🐤 You can find me on **LinkedIn** as www.linkedin.com/in/azurecris
 - 🌱 I’m currently learning Product Management
 - 💬 Ask me about Azure, Azure Stack, Azure Arc & NetApp Cloud Services.
-- 🔭 If you want to know more about Cloud Strategy or Hybrid Cloud Transformation, feel fre to contact me.
+- 🔭 If you want to know more about Cloud Strategy or Hybrid Cloud Transformation, feel free to contact me.
 
 I'm currently looking for a business & network contacts!
 
