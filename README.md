@@ -60,7 +60,7 @@ This is exactly where I would like to start.
 - he establish an architectural framework
 - he ensure alignment of IT strategy and planning between business, IT delivery and operations
 
-** Key Components**
+**Key Components**
 - Enterprise architecture modelling
 - Business strategy and design
 - Architecture governance
