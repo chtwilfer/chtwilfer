@@ -41,7 +41,9 @@ In various customer projects I have come across the topic of strategy again and 
 
 Many of my customers simply started with the cloud without really having a plan for it. 
 
-This is exactly where I would like to start. NO 🚀 science ;-)
+This is exactly where I would like to start.
+
+**NO 🚀 science ;-)**
 
 
 <!--
