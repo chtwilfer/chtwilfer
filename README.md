@@ -26,7 +26,7 @@ I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) o
 
 ***
 
-### ![image](https://user-images.githubusercontent.com/25345229/168776912-b0e59cbc-b8b2-43f5-afd4-9ee5bb8c2999.png) Sports
+### ⛳ Sports
 I am playing Golf. It is my passion for over 10 years. If you are also playing Golf, we can play a round together and feel free ;-)
 
 
