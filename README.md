@@ -4,9 +4,9 @@
 
 ## `whoami`
 
-- 👩‍💻 My name is Christian Twilfer, but I also answer to my nickname Twilfi 😉
+- 👩‍💻 My name is Christian Twilfer, but I also answer to my nickname **Twilfi** 😉
 - 🔗 My home on the net is https://chtwilfer.github.io
-- 📫 You can reach me by mail at christian.twilfer@outlook.de
+- 📫 You can reach me by email at christian.twilfer@outlook.de
 - 🐤 You can find me on **Twitter** as @azurecris
 - 🐤 You can find me on **LinkedIn** as www.linkedin.com/in/azurecris
 - 🌱 I’m currently learning Product Management
@@ -16,7 +16,7 @@
 I'm currently looking for a business & network contacts!
 
 ### 🗺 Location
-I hoemtown is in the north Germany. Near the Netherlands and the North Sea.
+I hometown is in the north of Germany. Near the Netherlands and the North Sea. 
 
 ### 📞 Contact
 I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) or [LinkedIn](www.linkedin.com/in/azurecris) at all times. Always feel free to text me if you need something and I have given you my number.
