@@ -10,7 +10,7 @@ Nice to meet you.....
 - 📫 You can reach me by email at christian.twilfer@outlook.de
 - 🐤 You can find me on **Twitter** as @azurecris
 - 🐤 You can find me on **LinkedIn** as www.linkedin.com/in/azurecris
-- 🌱 I’m currently learning Product Management
+- 🌱 I’m currently interested in Product / Program Management
 - 💬 Ask me about Azure, Azure Stack, Azure Arc & NetApp Cloud Services.
 - 🔭 If you want to know more about Cloud Strategy or Hybrid Cloud Transformation, feel free to contact me.
 
