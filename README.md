@@ -68,6 +68,9 @@ This is exactly where I would like to start.
 - Technology knowledge
 - Industry-specific business knowledge
 
+
+**I help you to create your own cloud strategy and accompany you on the path of transformation.**
+
 <!--
 **chtwilfer/chtwilfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
