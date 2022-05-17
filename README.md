@@ -14,7 +14,7 @@ Nice to meet you.....
 - 💬 Ask me about Azure, Azure Stack, Azure Arc & NetApp Cloud Services.
 - 🔭 If you want to know more about Cloud Strategy or Hybrid Cloud Transformation, feel free to contact me.
 
-I'm currently looking for a business & network contacts!
+I'm currently looking for a business & network contacts 👯!
 
 ### 🗺 Location
 I hometown is in the north of Germany. Near the Netherlands and the North Sea. 
@@ -26,7 +26,7 @@ I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) o
 
 ***
 
-### Sports
+### 👩‍ Sports
 I am playing Golf. It is my passion for over 10 years. If you are also playing Golf, we can play a round together and feel free ;-)
 
 
