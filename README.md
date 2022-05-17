@@ -3,9 +3,9 @@ Nice to meet you.....
 
 ***
 
-## `whoami`
+## `whoami` - key facts
 
-- 👩‍💻 My name is Christian Twilfer, but I also answer to my nickname **Twilfi** 😉
+- 👩‍💻 My name is Christian, but I also answer to my nickname **Twilfi** 😉
 - 🔗 My home on the net is https://chtwilfer.github.io
 - 📫 You can reach me by email at christian.twilfer@outlook.de
 - 🐤 You can find me on **Twitter** as @azurecris
@@ -33,7 +33,7 @@ I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) o
 
 ***
 
-### privately
+### Sports
 I am playing Golf. It is my passion for over 10 years. If you are also playing Golf, we can play a round together and feel free ;-)
 
 
