@@ -48,6 +48,18 @@ This is exactly where I would like to start.
 
 **NO 🚀 science ;-)**
 
+***
+
+### ´what does an Enterprise (Hybrid Cloud) Architect do?
+
+- he acts on tactical / strategic level
+- he leads the creation and realization of enterprise & cloud (hybrid) architectures
+- he creates and maintain enterprise architecture models
+- he establish a technology strategy and roadmap that enables future business capabilities
+- he establish an architectural framework
+- he ensure alignment of IT strategy and planning between business, IT delivery and operations
+
+
 
 <!--
 **chtwilfer/chtwilfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
