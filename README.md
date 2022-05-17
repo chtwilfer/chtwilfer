@@ -40,7 +40,7 @@ Before Corona, I was on the road a lot and spoke about Azure topics at countless
 
 But the last two years have brought me a different focus. I won't be auditioning all topics today, but I will focus on a few topics.
 
-In various customer projects I have come across the topic of strategy again and again.
+In various customer projects I came across the topic of strategy again and again.
 
 Many of my customers simply started with the cloud without really having a plan for it. 
 
