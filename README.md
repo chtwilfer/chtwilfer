@@ -20,7 +20,7 @@ Nice to meet you.....
 I'm currently looking for a business & network contacts 👯!
 
 ### 🗺 Location
-I hometown is in the north of Germany. Near the Netherlands and the North Sea. 
+My hometown is in the north of Germany. Near the Netherlands and the North Sea. 
 At the moment I prefer remote work, but in the future I can imagine being on the road again for 3 days a week.
 
 ***
