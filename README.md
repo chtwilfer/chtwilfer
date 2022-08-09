@@ -16,7 +16,7 @@ Nice to meet you.....
 - 🌱 I’m currently interested in Product / Program Management
 - 💬 Ask me about Azure, Azure Stack, Azure Arc & NetApp Cloud Services.
 - 🔭 If you want to know more about Cloud Strategy or Hybrid / Multi Cloud Transformation, feel free to contact me.
-- ☁️ newest topics are Amazon Web Services & Google Cloud Platform
+- ☁️ Newest topics are Amazon Web Services & Google Cloud Platform
 
 I'm currently looking for a business & network contacts 👯!
 
