@@ -1,4 +1,4 @@
-![](https://github.com/chtwilfer/chtwilfer.github.io/blob/8db17c07768df44e8326e8f3b3fcca214cea0311/assets/images/multi-cloud1.jpg)
+![](https://github.com/chtwilfer/chtwilfer.github.io/blob/8db17c07768df44e8326e8f3b3fcca214cea0311/assets/images/pexels-kristopherk-288530.jpg)
 
 
 # 👋 Hi there!
