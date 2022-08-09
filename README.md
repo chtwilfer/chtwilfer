@@ -18,7 +18,7 @@ Nice to meet you.....
 - 🔭 If you want to know more about Cloud Strategy or Hybrid / Multi Cloud Transformation, feel free to contact me.
 - ☁️ Newest topics are Amazon Web Services & Google Cloud Platform
 
-I'm currently looking for a business & network contacts 👯!
+I'm currently looking for new business & network contacts 👯!
 
 ### 🗺 Location
 My hometown is in northern Germany. Near the Netherlands and the North Sea. 
