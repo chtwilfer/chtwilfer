@@ -1,4 +1,4 @@
-![](https://github.com/chtwilfer/chtwilfer.github.io/blob/b4528f31151ba741536b6e0b0d3025d243f6068c/assets/images/GithubHintergrundCloud.jpg)
+![](https://github.com/chtwilfer/chtwilfer.github.io/blob/986af33e2323e70a669c36ecdd0643d009ef3b0d/assets/images/GithubHintergrundCloud.jpg)
 
 
 # 👋 Hi there!
