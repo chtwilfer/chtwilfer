@@ -8,6 +8,7 @@ Nice to meet you.....
 
 ## `whoami` - key facts
 
+Business
 - 👩‍💻 My name is Christian, but I also answer to my nickname **Twilfi** 😉
 - 🔗 My virtual home is https://chtwilfer.github.io
 - 📫 You can reach me by email at c.twilfer@outlook.de
@@ -17,6 +18,13 @@ Nice to meet you.....
 - 💬 Ask me about Azure, Azure Stack, Azure Arc & NetApp Cloud Services.
 - 🔭 If you want to know more about Cloud Strategy or Hybrid / Multi Cloud Transformation, feel free to contact me.
 - ☁️ Newest topics are Amazon Web Services & Google Cloud Platform
+
+Private
+- 🥁 I play drums in a marching band
+- 🐕 I love dogs and 🐎 horses
+- ⛰️ I love hiking in the mountains
+- 🌊 I love the North Sea
+- 💂‍♂️ I love Great Britain
 
 I'm currently looking for new business & network contacts 👯!
 
