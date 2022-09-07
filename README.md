@@ -35,10 +35,7 @@ At the moment I prefer remote work, but in the future I can imagine being on the
 ***
 
 ### 📞 Contact
-I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) or [LinkedIn](<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="azurecris" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/azurecris?trk=profile-badge">Christian Twilfer</a></div>) (www.linkedin.com/in/azurecris) at all times. Always feel free to text me if you need something and I have given you my number.
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="azurecris" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/azurecris?trk=profile-badge">Christian Twilfer</a></div>
+I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) or [LinkedIn](www.linkedin.com/in/azurecris) at all times. Always feel free to text me if you need something and I have given you my number.
               
 
 ***
