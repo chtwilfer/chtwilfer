@@ -11,7 +11,7 @@ I am a Visionary Cloud Strategist & Tech Lead | Senior Cloud Platform Architect 
 
 Business
 - 👩‍💻 My name is Christian, but I also answer to my nickname **Twilfi** 😉
-- 🔗 My virtual home is [https://chtwilfer.github.io](https://nextgencloudarchitecture.hashnode.dev/) and
+- 🔗 My virtual home is https://nextgencloudarchitecture.hashnode.dev/ and
 - 🔗 My virtual home is https://christiantwilfer.substack.com/
 - 📫 You can reach me by email at c.twilfer@outlook.de
 - 🐤 You can find me on **LinkedIn** as www.linkedin.com/in/azurecris
