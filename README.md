@@ -3,18 +3,20 @@
 # 👋 Hi there!
 Nice to meet you.....
 
+I am a Visionary Cloud Strategist & Tech Lead | Senior Cloud Platform Architect |30+ years Tech & Cloud | Ex-Military Leader | Engagement & Stakeholder Management | CGI Partner & Executive Consultant
+
 ***
 
 ## `whoami` - key facts
 
 Business
 - 👩‍💻 My name is Christian, but I also answer to my nickname **Twilfi** 😉
-- 🔗 My virtual home is https://chtwilfer.github.io
+- 🔗 My virtual home is [https://chtwilfer.github.io](https://nextgencloudarchitecture.hashnode.dev/) and
+- 🔗 My virtual home is https://christiantwilfer.substack.com/
 - 📫 You can reach me by email at c.twilfer@outlook.de
-- 🐤 You can find me on **Twitter** as @azurecris
 - 🐤 You can find me on **LinkedIn** as www.linkedin.com/in/azurecris
 - 🌱 I’m currently interested in Product / Program Management
-- 💬 Ask me about Azure, Azure Stack, Azure Arc & NetApp Cloud Services.
+- 💬 Ask me about Azure, Azure Stack & NetApp Cloud Services.
 - 🔭 If you want to know more about Cloud Strategy or Hybrid / Multi Cloud Transformation, feel free to contact me.
 - ☁️ Newest topics are Amazon Web Services & Google Cloud Platform
 
@@ -34,7 +36,7 @@ At the moment I prefer remote work, but in the future I can imagine being on the
 ***
 
 ### 📞 Contact
-I am available via **email**, and [Twitter](https://www.twitter.com/azurecris) or [LinkedIn](www.linkedin.com/in/azurecris) at all times. Always feel free to text me if you need something and I have given you my number.
+I am available via **email**, and [LinkedIn](www.linkedin.com/in/azurecris) at all times. Always feel free to text me if you need something and I have given you my number.
 
 ***
 
